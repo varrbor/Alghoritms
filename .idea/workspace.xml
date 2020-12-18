@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e160043f-b774-4a64-835c-ce13f380bcf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binarySearch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverseArrayInPlace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverseWord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bubbleSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibMemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibonacci.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sieveOfEratosthenes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,29 +32,29 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.binarySearch.js">
-    <configuration name="binarySearch.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/binarySearch.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.maxStockProfit .js">
+    <configuration name="bubbleSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bubbleSort.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="isPalindrome.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/isPalindrome.js" working-dir="$PROJECT_DIR$">
+    <configuration name="fibMemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fibMemo.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="reverseArrayInPlace.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/reverseArrayInPlace.js" working-dir="$PROJECT_DIR$">
+    <configuration name="fibonacci.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fibonacci.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="reverseWord.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/reverseWord.js" working-dir="$PROJECT_DIR$">
+    <configuration name="maxStockProfit .js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/maxStockProfit .js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="twoSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/twoSum.js" working-dir="$PROJECT_DIR$">
+    <configuration name="sieveOfEratosthenes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sieveOfEratosthenes.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.binarySearch.js" />
-        <item itemvalue="Node.js.twoSum.js" />
-        <item itemvalue="Node.js.reverseArrayInPlace.js" />
-        <item itemvalue="Node.js.reverseWord.js" />
-        <item itemvalue="Node.js.isPalindrome.js" />
+        <item itemvalue="Node.js.maxStockProfit .js" />
+        <item itemvalue="Node.js.bubbleSort.js" />
+        <item itemvalue="Node.js.sieveOfEratosthenes.js" />
+        <item itemvalue="Node.js.fibMemo.js" />
+        <item itemvalue="Node.js.fibonacci.js" />
       </list>
     </recent_temporary>
   </component>
@@ -66,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608282659236</updated>
       <workItem from="1608282660432" duration="3827000" />
-      <workItem from="1608287879814" duration="3480000" />
+      <workItem from="1608287879814" duration="5569000" />
     </task>
     <servers />
   </component>
